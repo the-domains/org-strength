@@ -1,0 +1,28 @@
+name: ORG Strength
+favicon: null
+layout_spectrum: 0.6555727117229253
+typography_spectrum: 0.06462150230072439
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2964925351552665
+  lightness: 0.5210120684932917
+  saturation: 0.9162466658744961
+  rhythmicContrast: 0.03179849125444889
+purpose: []
