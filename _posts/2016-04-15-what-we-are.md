@@ -1,0 +1,38 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: "OrgStrength\_is\_a\_leading management\_consultancy in\_Jamaica,\_specializing in\_business turnaround, business coaching\_and organizational renewal.\_\_"
+datePublished: '2016-04-15T18:11:16.124Z'
+dateModified: '2016-04-15T18:09:41.412Z'
+title: ''
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-04-15-what-we-are.md
+published: true
+url: what-we-are/index.html
+_type: Article
+
+---
+**WHAT WE ARE**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bac16a7c-60de-44d2-9e7a-3d1af7a62e07.jpg)
+
+OrgStrength is a leading management consultancy in Jamaica, specializing in business turnaround, business coaching and organizational renewal.  
+
+As turnaround specialists, we solve complex business issues and help build employee capability to develop and execute strategies t
+
+hat deliver results. 
+
+As business coaches within the world-renowned
+
+, we have the experience, skills and access to the broadest range of knowledge to help your people and company succeed.
+
+With a singular mantra that "nothing that is has to be" we have helped clients operationalize transformation strategies primarily in the retail and services industries in Jamaica and the Caribbean. Our clients typically are those experiencing or anticipating significant working capital, profitability and revenue issues.  Often they are also impacted by low productivity, need help on strategy and decision making, or have low levels of customer and employee engagement, and require experienced, practical help to shape their culture, transform leadership and deliver results.
