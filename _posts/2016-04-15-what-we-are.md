@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "OrgStrength\_is\_a\_leading management\_consultancy in\_Jamaica,\_specializing in\_business turnaround, business coaching\_and organizational renewal.\_\_"
-datePublished: '2016-04-15T18:16:09.439Z'
-dateModified: '2016-04-15T18:16:03.832Z'
+datePublished: '2016-04-15T18:19:41.139Z'
+dateModified: '2016-04-15T18:19:25.653Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-15-what-we-are.md
@@ -32,4 +32,4 @@ As business coaches within the world-renowned
 
 , we have the experience, skills and access to the broadest range of knowledge to help your people and company succeed.
 
-With a singular mantra that "nothing that is has to be" we have helped clients operationalize transformation strategies primarily in the retail and services industries in Jamaica and the Caribbean. Our clients typically are those experiencing or anticipating significant working capital, profitability and revenue issues.  Often they are also impacted by low productivity, need help on strategy and decision making, or have low levels of customer and employee engagement, and require experienced, practical help to shape their culture, transform leadership and deliver results.
+With a singular mantra that "nothing that is has to be" we have helped clients operationalize transformation strategies primarily in the retail and services industries in Jamaica and the Caribbean. Our clients typically are those experiencing or anticipating significant working capital, profitability and revenue issues.  Often they are also impacted by low productivity, need help on strategy and decision making, or have low levels of customer and employee engagement, and require experienced, practical help to shape their culture, transform leadership and deliver results.  Your Organization Can Achieve Fortune 100 Type Results!
