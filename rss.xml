@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ORG Strength]]></title>
+        <description><![CDATA[ORG Strength]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Apr 2016 18:11:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WHAT WE ARE ]]></title>
+            <description><![CDATA[<article><h1>WHAT WE ARE </h1><p>OrgStrength is a leading management consultancy in Jamaica, specializing in business turnaround, business coaching and organizational renewal.  </p></article>]]></description>
+            <link>undefinedwhat-we-are/index.html</link>
+            <guid isPermaLink="false">953209ba-219b-4449-9da2-1f7f3c7d3ef0</guid>
+            <pubDate>Fri, 15 Apr 2016 18:11:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
