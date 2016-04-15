@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "OrgStrength\_is\_a\_leading management\_consultancy in\_Jamaica,\_specializing in\_business turnaround, business coaching\_and organizational renewal.\_\_"
-datePublished: '2016-04-15T18:19:41.139Z'
-dateModified: '2016-04-15T18:19:25.653Z'
+datePublished: '2016-04-15T19:03:23.138Z'
+dateModified: '2016-04-15T19:01:54.969Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-15-what-we-are.md
@@ -28,8 +28,6 @@ OrgStrength is a leading management consultancy in Jamaica, specializing in busi
 
 As turnaround specialists, we solve complex business issues and help build employee capability to develop and execute strategies that deliver results. 
 
-As business coaches within the world-renowned
+As business coaches within the world-renowned BSC Network, we have the experience, skills and access to the broadest range of knowledge to help your people and company succeed.
 
-, we have the experience, skills and access to the broadest range of knowledge to help your people and company succeed.
-
-With a singular mantra that "nothing that is has to be" we have helped clients operationalize transformation strategies primarily in the retail and services industries in Jamaica and the Caribbean. Our clients typically are those experiencing or anticipating significant working capital, profitability and revenue issues.  Often they are also impacted by low productivity, need help on strategy and decision making, or have low levels of customer and employee engagement, and require experienced, practical help to shape their culture, transform leadership and deliver results.  Your Organization Can Achieve Fortune 100 Type Results!
+With a singular mantra that "nothing that is has to be" we have helped clients operationalize transformation strategies primarily in the retail and services industries in Jamaica and the Caribbean. Our clients typically are those experiencing or anticipating significant working capital, profitability and revenue issues.  Often they are also impacted by low productivity, need help on strategy and decision making, or have low levels of customer and employee engagement, and require experienced, practical help to shape their culture, transform leadership and deliver results.
